@@ -1,0 +1,17 @@
+.add-form-row {
+    width: 50%;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+  }
+  
+  .add-form-row>form{
+      padding: 20px;
+      border: 1px solid grey;
+  }
+  
+  .btn-outline-primary{
+   margin-left: 10px;
+   margin-right: 10px;
+  }
